@@ -1,8 +1,8 @@
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/mudutv/logging v0.2.3-0.20200713015708-31395b91b76b/go.mod h1:FJQxZxxaM3D+lKvoE9RgNIjLYRuMmG1DhFmbqMRQHvs=
-github.com/mudutv/transport v0.8.11-0.20200713060934-91fc39c82d10 h1:BX8adS98s20GUwQb9WtTWwxESPlBuZHY+VAX2AiVJzA=
-github.com/mudutv/transport v0.8.11-0.20200713060934-91fc39c82d10/go.mod h1:Brx2T3nSE5yN4+QQjK71hVr6PDenHxFlxdM1K0TSb7w=
+github.com/mudutv/transport v0.8.11-0.20200713064300-06cc0a3076c7 h1:k4kG2u6y++3m03waewoZGxLyvcalPL1hC/o7Pi1YaxA=
+github.com/mudutv/transport v0.8.11-0.20200713064300-06cc0a3076c7/go.mod h1:Brx2T3nSE5yN4+QQjK71hVr6PDenHxFlxdM1K0TSb7w=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
